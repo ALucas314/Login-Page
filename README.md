@@ -7,7 +7,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![Js](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black")
 
 
 <p>
@@ -30,8 +29,7 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 
 - [x] Animações simples 1
 - [x] Responsividade 2
-- [x] Possui funcionalidades com JS 3
-- [x] Consumo de API com JS 4
+
       
 <img src="assets/img/QRcode.png" alt="css3" width="200" height="200"/>
 
