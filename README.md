@@ -36,5 +36,5 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 ## 🚀 Link do site copie e cole no navegador!
 
 ```
-https://q-rcode-generator-ten.vercel.app/
+https://login-page-umber-one.vercel.app/
 ```
